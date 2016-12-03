@@ -10,7 +10,7 @@
 
 > 安装启动
 
-- 进入到 web_barrage 目录下运行 php start.php start -d 。
+- 命令行下进入 web_barrage 目录运行 php start.php start -d 。
 - 然后访问上一步配置的域名即可。
 
 > 相关备注
@@ -21,6 +21,6 @@
 
 微信名称：IT小圈儿，微信号：ToFeelings。
 
-[IT小圈儿](https://ntaste.github.io/image/qr.jpg)
+![IT小圈儿](https://ntaste.github.io/image/qr.jpg)
 
 
