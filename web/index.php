@@ -117,7 +117,6 @@
 				'href':'',
 				'close':true,
 				'speed':5,
-				'bottom':70,
 				'color':'#fff' ,
 				'old_ie_color':'#000000'
 			};
