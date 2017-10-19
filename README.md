@@ -10,8 +10,8 @@
 
 > 安装启动
 
-- 命令行下进入 web_barrage 目录运行命名 
-- 开启服务 php start.php start -d 。
+- 命令行下进入 web_barrage 目录运行开启服务命令 
+- 开启服务 php start.php start -d
 - 关闭服务 php start.php stop
 - 然后访问上一步配置的域名（local.barrage.com）即可。
 
