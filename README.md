@@ -6,12 +6,14 @@
 
 > 项目配置
 
-- 配置本地域名指向到 web 目录下。
+- 配置本地域名（local.barrage.com）指向到源码中 web 目录下。
 
 > 安装启动
 
-- 命令行下进入 web_barrage 目录运行 php start.php start -d 。
-- 然后访问上一步配置的域名即可。
+- 命令行下进入 web_barrage 目录运行命名 
+- 开启服务 php start.php start -d 。
+- 关闭服务 php start.php stop
+- 然后访问上一步配置的域名（local.barrage.com）即可。
 
 > 相关备注
 
