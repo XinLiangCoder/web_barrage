@@ -22,6 +22,6 @@
 - Demo 中未做数据存储这块。
 - Demo 可以提供思路，具体情况依照各自实际需求进行开发。
 
-![](https://ntaste.github.io/image/qr.jpg)
+![公众号](https://ntaste.github.io/image/qr.jpg)
 
 
