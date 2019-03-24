@@ -22,8 +22,6 @@
 - Demo 中未做数据存储这块。
 - Demo 可以提供思路，具体情况依照各自实际需求进行开发。
 
-微信名称：IT小圈儿，微信号：ToFeelings。
-
-![IT小圈儿](https://ntaste.github.io/image/qr.jpg)
+![](https://ntaste.github.io/image/qr.jpg)
 
 
